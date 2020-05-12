@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>
+belal ahmed
+</title>
+</head>
+<body bgcolor="ff00fc" >
+<body text ="white"
+<p> <span style="font-size:30;"><center>بسم الله الرحمن الرحيم</span></center></p>
+<div class="a">
+<h1><center>databases</center></h1>
+<p>did you ever think when you use google and search for anything 
+where does google get all this information . well the answer is databasses 
+
+first to understand databasses we have to know two things data and information 
+first data is  diffrent shapes which represent  facts ,numbers ,letters ,images , and more which processing to get mean for it
+second information is the data which alredy has processed to useful information
+<table border="1" style="width:100%;">
+	<tr>
+		<td><span style="font-size:30;"><center>data</span></center></td>
+		<td><span style="font-size:30;"><center>information</span></center></td>
+	</tr>
+	<tr>
+		<td>14251654982849</td>
+		<td>ID Number </td>
+	</tr>
+	<tr>
+		<td>rahma ahmed</td>
+		<td>the name of the student who made this website :) </td>
+	</tr>
+</table>
+ok lets explain databases 
+databases is collecting and organizing data ,so that is easy to exract useful information from it . databases can store information about people, products,requests, etc.,and retrieve them whenever you want to analyze them and convert them
+the importance of databases:
+1-storing a huge amount of data with different types (texts-numbers-dates)
+2-performing operation and processingon this data to get out with information
+3-ease of retrieving information quickly and highly efficiently 
+4- the ability to amend and update this data 
+5-Achieve a high degree of security and confidentiality of the stored information and keep  It has tampering data  
+6-centralizing data and limiting its frequency so that all data are dealt with
+
+</body>
+
+
+
+</html>
